@@ -1,0 +1,18 @@
+body {
+    background-color: burlywood;
+    background: url(https://images.pexels.com/photos/2782485/pexels-photo-2782485.jpeg?cs=srgb&dl=pexels-james-wheeler-2782485.jpg&fm=jpg) no-repeat center;
+}
+
+.out {
+    background-color: white;
+    border-radius: 25px;
+    opacity: 0.95;
+}
+
+select {
+    text-align: center;
+}
+
+.out hr {
+    margin-top: 8px;
+}
